@@ -61,7 +61,7 @@ export default function AfroFigurePage() {
         {/* Tech Stack */}
         <TechStack 
           technologies={technologies}
-          githubUrl="https://github.com/yourusername/afrofigure"
+          githubUrl="https://github.com/AbrshS/afroFigure_Landing_Page"
         />
 
         {/* Project images */}

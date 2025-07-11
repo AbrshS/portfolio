@@ -63,7 +63,7 @@ export default function SagePage() {
         {/* Tech Stack */}
         <TechStack 
           technologies={technologies}
-          githubUrl="https://github.com/yourusername/sage"
+          githubUrl="https://github.com/AbrshS/sage_media_frontend"
         />
 
         {/* Project images */}

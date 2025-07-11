@@ -57,7 +57,7 @@ export default function BrainTumorDetectionPage() {
         {/* Tech Stack */}
         <TechStack 
           technologies={technologies}
-          githubUrl="https://github.com/yourusername/brain-tumor-detection"
+          githubUrl="https://github.com/?q=brain"
         />
 
         {/* Project images */}

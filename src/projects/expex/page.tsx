@@ -76,7 +76,7 @@ Delivered a comprehensive solution streamlining 90% of property operations.</li>
         {/* Tech Stack */}
         <TechStack 
           technologies={technologies}
-          githubUrl="https://github.com/yourusername/expex"
+          githubUrl="https://github.com/AbrshS/Pex-Tenant-Mgt-System"
         />
 
         {/* Project images */}

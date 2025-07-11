@@ -63,7 +63,7 @@ export default function FedaPage() {
         {/* Tech Stack */}
         <TechStack 
           technologies={technologies}
-          githubUrl="https://github.com/yourusername/feda"
+          githubUrl="https://github.com/AbrshS/Firearm-Mgt-System-Backend"
         />
 
         {/* Project images */}
